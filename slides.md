@@ -15,7 +15,8 @@ fonts:
   serif: Inter, Noto Serif SC
   mono: Fira Code
 favicon: https://cdn.jsdelivr.net/gh/slidevjs/slidev/assets/favicon.png
-download: true
+download: false
+overviewSnapshots: false
 exportFilename: claude-code-in-practice
 transition: slide-left
 ---
