@@ -1,0 +1,11 @@
+:root {
+  --slidev-theme-primary: #d4a574;
+}
+
+.slidev-layout {
+  font-family: 'Inter', 'Noto Sans SC', sans-serif;
+}
+
+code {
+  font-family: 'Fira Code', monospace !important;
+}
